@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hii👋... I'm Faariah.
+I am someone who wants to touch every domain: AI, ML, IoT, hardware, software, web dev, core...everything.
+People say "Jack of all trades, master of none", but i believe true mastery comes from knowing a bit of everything.
 
-<!--
-**fw-codes/fw-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+- B.Tech in Computer Engineering, Zakir Hussain College of Engineering & Technology, AMU  (Currently pursuing, 2nd year)
+- Diploma in Information Technology, Women's Polytechnic, AMU (Honours, First Division)
 
-Here are some ideas to get you started:
+📫 Connect With Me
+- 📧 Email: faariahwaseem@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/faariah-waseem)  
+- 🐙 [GitHub](https://github.com/fw-codes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
