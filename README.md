@@ -7,7 +7,7 @@ People say "Jack of all trades, master of none", but i believe true mastery come
 - Diploma in Information Technology, Women's Polytechnic, AMU (Honours, First Division)
 
 📫 Connect With Me
-- 📧 Email: faariahwaseem@gmail.com  
+- 📧 faariahwaseem@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/faariah-waseem)  
 - 🐙 [GitHub](https://github.com/fw-codes)
 
